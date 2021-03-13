@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Random number from 1 to 100"
