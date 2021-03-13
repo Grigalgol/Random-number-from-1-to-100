@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Random number from 1 to 100</string>
+    <string name="but">Сгенерировать</string>
 </resources>
